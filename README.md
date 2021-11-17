@@ -1,12 +1,13 @@
 # マークダウンいろいろ
 
+# 参照
+- https://notepm.jp/help/how-to-markdown
+- https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 
-https://notepm.jp/help/how-to-markdown
 
+## 実行例
 
-## 見出し
-
-### 入力例
+### 見出し
 ```
 # 見出し1です
 ## 見出し2です
